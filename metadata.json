@@ -1,0 +1,7 @@
+{
+  "name": "Stock Portfolio Tracker",
+  "description": "Calculate total investment value and portfolio breakdown using price dictionaries with instant CSV and TXT export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
